@@ -1,6 +1,6 @@
-name = str('Vladimir')
-age = int(16)
-new_age = 2 + int(age)
+name = 'Vladimir'
+age = 16
+new_age = 2 + age
 is_student = True
 
 print('Name:', name)
