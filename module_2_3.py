@@ -8,7 +8,5 @@ while number < len(my_list):
         continue
     elif num < 0:
         break
-    elif number == len(my_list):
-        print(num)
     else:
         print(num)
